@@ -5,7 +5,7 @@ import numpy as np
 
 st.set_page_config(page_title="Teachable Machine App", page_icon="🧠", layout="centered")
 
-st.title("🧠 Teachable Machine Classifier")
+st.title("🧠 Machine Classifier")
 st.markdown("Upload an image and get a prediction from your trained model.")
 
 @st.cache_resource
